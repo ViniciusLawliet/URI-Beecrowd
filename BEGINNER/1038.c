@@ -1,3 +1,12 @@
+/**
+ * @author vinicius lawliet
+ * @brief 
+ * @version 0.1
+ * 
+ * problem: 1038 - Snack
+ * 
+ */
+
 #include <stdio.h>
 
 struct snack {

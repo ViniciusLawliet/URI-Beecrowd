@@ -1,3 +1,12 @@
+/**
+ * @author vinicius lawliet
+ * @brief 
+ * @version 0.1
+ * 
+ * problem: 1149 - Summing Consecutive Integers
+ * 
+ */
+
 #include <stdio.h>
 
 int main() {

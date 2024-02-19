@@ -1,3 +1,12 @@
+/**
+ * @author vinicius lawliet
+ * @brief 
+ * @version 0.1
+ * 
+ * problem: 1961 - Jumping Frog
+ * 
+ */
+
 #include <stdio.h>
 
 int abs_local(int x) {

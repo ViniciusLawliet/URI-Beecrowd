@@ -1,3 +1,12 @@
+/**
+ * @author vinicius lawliet
+ * @brief 
+ * @version 0.1
+ * 
+ * problem: 1116 - Dividing X by Y
+ * 
+ */
+
 #include <stdio.h>
 
 int main() {

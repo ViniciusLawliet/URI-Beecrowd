@@ -1,3 +1,12 @@
+/**
+ * @author vinicius lawliet
+ * @brief 
+ * @version 0.1
+ * 
+ * problem: 1179 - Array Fill IV
+ * 
+ */
+
 #include <stdio.h>
 
 void printArray(int *arr, int len, char str[]) {

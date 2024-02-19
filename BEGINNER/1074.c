@@ -1,3 +1,12 @@
+/**
+ * @author vinicius lawliet
+ * @brief 
+ * @version 0.1
+ * 
+ * problem: 1074 - Even or Odd
+ * 
+ */
+
 #include <stdio.h>
 
 int main() {

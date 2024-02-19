@@ -1,3 +1,12 @@
+/**
+ * @author vinicius lawliet
+ * @brief 
+ * @version 0.1
+ * 
+ * problem: 1962 - A Long Long Time Ago
+ * 
+ */
+
 #include <stdio.h>
 
 int main () {

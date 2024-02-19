@@ -1,3 +1,12 @@
+/**
+ * @author vinicius lawliet
+ * @brief 
+ * @version 0.1
+ * 
+ * problem: 1145 - Logical Sequence 2
+ * 
+ */
+
 #include <stdio.h>
 
 int main() {

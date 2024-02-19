@@ -1,3 +1,12 @@
+/**
+ * @author vinicius lawliet
+ * @brief 
+ * @version 0.1
+ * 
+ * problem: 1160 - Population Increase
+ * 
+ */
+
 #include <stdio.h>
 
 int main() {
