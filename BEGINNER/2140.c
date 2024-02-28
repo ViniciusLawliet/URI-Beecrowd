@@ -29,7 +29,7 @@ int main () {
             }
         }
 
-        (!m && c > 1) ? printf("possible\n") : printf("impossible\n");
+        (!m && c == 2) ? printf("possible\n") : printf("impossible\n");
 
     }
 
