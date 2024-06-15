@@ -1,20 +1,22 @@
 /**
  * @author vinicius lawliet
  * @brief 
- * @version 0.1
+ * @version 0.2
  * 
  * problem: 1973 - Star Trek
  * 
  */
 
 #include <stdio.h>
+#include <stdlib.h>
 
 int main () {
 
     int n;
     scanf("%d", &n);
 
-    int v[n], i;
+    int i, *v;
+    v = (int *)malloc(n * sizeof(int));
     long long unsigned s = 0;
     for (i = 0; i < n; i++) {
 
@@ -40,6 +42,7 @@ int main () {
     }
 
     printf("%d %llu\n", ++c, s);
+    free(v);
 
     return 0;
 
