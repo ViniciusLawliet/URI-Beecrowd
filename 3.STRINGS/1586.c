@@ -43,9 +43,7 @@ int main() {
 
         /*
             Sp = a1 + a2 + ... + ap
-
             SN = a1 + a2 + ... + aN
-
             T  = 1*a1 + 2*a2 + ... + N*aN
         */
 
