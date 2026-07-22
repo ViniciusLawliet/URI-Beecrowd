@@ -1,9 +1,9 @@
 /**
  * @author vinicius lawliet
- * @brief 
+ * @brief Solves the problem using straightforward substring searches instead of a Trie.
  * @version 0.1
  * 
- * problem: 2724 - Ajude Patatatitu
+ * @problem: 2724 - Ajude Patatatitu
  * 
  */
 

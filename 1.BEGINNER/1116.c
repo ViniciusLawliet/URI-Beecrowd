@@ -3,7 +3,7 @@
  * @brief 
  * @version 0.1
  * 
- * problem: 1116 - Dividing X by Y
+ * @problem: 1116 - Dividing X by Y
  * 
  */
 

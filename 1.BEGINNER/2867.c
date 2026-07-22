@@ -1,9 +1,9 @@
 /**
  * @author vinicius lawliet
- * @brief 
+ * @brief Uses logarithmic properties to compute the number of digits without evaluating the power.
  * @version 0.1
  * 
- * problem: 2867 - Digitos
+ * @problem: 2867 - Digitos
  * 
  */
 

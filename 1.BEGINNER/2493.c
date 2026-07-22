@@ -1,9 +1,9 @@
 /**
  * @author vinicius lawliet
- * @brief 
+ * @brief Evaluates each answer and keeps incorrect player names sorted by ordered insertion.
  * @version 0.1
  * 
- * problem: 2493 - Operation Game
+ * @problem: 2493 - Operation Game
  * 
  */
 

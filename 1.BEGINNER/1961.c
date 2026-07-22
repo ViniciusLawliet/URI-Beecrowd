@@ -3,7 +3,7 @@
  * @brief 
  * @version 0.2
  * 
- * problem: 1961 - Jumping Frog
+ * @problem: 1961 - Jumping Frog
  * 
  */
 

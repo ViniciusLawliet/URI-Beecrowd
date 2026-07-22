@@ -42,7 +42,7 @@ Every solution should start with the following header:
 ```c
 /**
  * @author Your Name
- * @brief Frequency counting using a 128x128 matrix.
+ * @brief Frequency counting using a 128x128 matrix. (optional)
  * @version 0.1 (optional)
  *
  * @problem: 0000 - title

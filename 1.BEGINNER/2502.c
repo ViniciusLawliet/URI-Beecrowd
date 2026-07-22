@@ -1,9 +1,9 @@
 /**
  * @author vinicius lawliet
- * @brief 
+ * @brief Uses an ASCII lookup table for bidirectional character substitution.
  * @version 0.1
  * 
- * problem: 2502 - Deciphering the Encrypted Card
+ * @problem: 2502 - Deciphering the Encrypted Card
  * 
  */
 

@@ -3,7 +3,7 @@
  * @brief 
  * @version 0.1
  * 
- * problem: 2769 - Linha de Montagem
+ * @problem: 2769 - Linha de Montagem
  * 
  */
 

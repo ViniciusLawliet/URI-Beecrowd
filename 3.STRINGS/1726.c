@@ -1,9 +1,9 @@
 /**
  * @author vinicius lawliet
- * @brief 
+ * @brief Evaluates set expressions using the Shunting Yard algorithm and bitmask operations.
  * @version 0.1
  * 
- * problem: 1726 - Amigos
+ * @problem: 1726 - Amigos
  * 
 */
 

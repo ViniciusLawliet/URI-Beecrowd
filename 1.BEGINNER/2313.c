@@ -1,9 +1,9 @@
 /**
  * @author vinicius lawliet
- * @brief 
+ * @brief Classifies triangles using geometric properties and macro-based predicates.
  * @version 0.1
  * 
- * problem: 2313 - Which Triangle
+ * @problem: 2313 - Which Triangle
  * 
  */
 

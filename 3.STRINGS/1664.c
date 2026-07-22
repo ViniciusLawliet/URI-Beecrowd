@@ -1,9 +1,9 @@
 /**
  * @author vinicius lawliet
- * @brief 
+ * @brief Counts distinct words per sequence and reduces the final ratio using Stein's GCD algorithm.
  * @version 0.1
  * 
- * problem: 1664 - Bullshit Bingo
+ * @problem: 1664 - Bullshit Bingo
  * 
 */
 

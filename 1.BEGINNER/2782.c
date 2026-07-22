@@ -3,7 +3,7 @@
  * @brief 
  * @version 0.1
  * 
- * problem: 2782 - Escadinha
+ * @problem: 2782 - Escadinha
  * 
  */
 

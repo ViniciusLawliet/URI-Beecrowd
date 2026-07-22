@@ -3,7 +3,7 @@
  * @brief 
  * @version 0.1
  * 
- * problem: 1160 - Population Increase
+ * @problem: 1160 - Population Increase
  * 
  */
 

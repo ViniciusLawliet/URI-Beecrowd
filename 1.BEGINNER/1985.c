@@ -1,9 +1,9 @@
 /**
  * @author vinicius lawliet
- * @brief 
+ * @brief Uses a perfect hash function to map product codes to their prices.
  * @version 0.1
  * 
- * problem: 1985 - MacPRONALTS
+ * @problem: 1985 - MacPRONALTS
  * 
  */
 

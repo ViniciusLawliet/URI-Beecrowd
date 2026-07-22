@@ -3,7 +3,7 @@
  * @brief 
  * @version 0.1
  * 
- * problem: 2060 - Bino's Challenge
+ * @problem: 2060 - Bino's Challenge
  * 
  */
 

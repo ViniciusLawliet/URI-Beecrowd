@@ -3,7 +3,7 @@
  * @brief 
  * @version 0.2
  * 
- * problem: 1973 - Star Trek
+ * @problem: 1973 - Star Trek
  * 
  */
 

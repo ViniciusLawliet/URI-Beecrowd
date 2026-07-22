@@ -3,7 +3,7 @@
  * @brief 
  * @version 0.1
  * 
- * problem: 1586 - Cabo de Guerra
+ * @problem: 1586 - Cabo de Guerra
  * 
  */
 

@@ -3,7 +3,7 @@
  * @brief 
  * @version 0.1
  * 
- * problem: 1149 - Summing Consecutive Integers
+ * @problem: 1149 - Summing Consecutive Integers
  * 
  */
 

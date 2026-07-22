@@ -3,7 +3,7 @@
  * @brief 
  * @version 0.1
  * 
- * problem: 2670 - Maquina de Cafe
+ * @problem: 2670 - Maquina de Cafe
  * 
  */
 

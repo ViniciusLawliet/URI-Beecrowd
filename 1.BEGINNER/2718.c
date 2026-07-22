@@ -3,7 +3,7 @@
  * @brief 
  * @version 0.1
  * 
- * problem: 2718 - Luzes de Natal
+ * @problem: 2718 - Luzes de Natal
  * 
  */
 

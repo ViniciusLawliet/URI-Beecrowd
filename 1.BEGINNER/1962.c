@@ -3,7 +3,7 @@
  * @brief 
  * @version 0.1
  * 
- * problem: 1962 - A Long Long Time Ago
+ * @problem: 1962 - A Long Long Time Ago
  * 
  */
 

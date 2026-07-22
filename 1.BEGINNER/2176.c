@@ -3,7 +3,7 @@
  * @brief 
  * @version 0.1
  * 
- * problem: 2176 - Parity
+ * @problem: 2176 - Parity
  * 
  */
 

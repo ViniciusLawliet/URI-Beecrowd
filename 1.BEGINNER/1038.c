@@ -1,9 +1,9 @@
 /**
  * @author vinicius lawliet
- * @brief 
+ * @brief Uses an array of structures to map product codes to prices.
  * @version 0.1
  * 
- * problem: 1038 - Snack
+ * @problem: 1038 - Snack
  * 
  */
 
