@@ -3,7 +3,7 @@
  * @brief Frequency counting using a 128x128 matrix.
  * @version 0.1
  * 
- * problem: 1737 - Etaoin Shrdlu
+ * @problem: 1737 - Etaoin Shrdlu
  * 
 */
 
